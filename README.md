@@ -1,2 +1,2 @@
-# sidoun_bot
-しどうんのbotをつくる計画
+# ruby_study01
+hour.rbとreply.rbを起動しとくとそれぞれ1時間毎につぶやいたりリプライに対して返信したりしてくれるよ
